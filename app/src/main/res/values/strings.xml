@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rasta</string>
+
+    <string-array name="pilihagama">
+        <item>--Pilih--</item>
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Protestan</item>
+        <item>Budha</item>
+        <item>Hindu</item>
+        <item>Konghucu</item>
+    </string-array>
+</resources>
