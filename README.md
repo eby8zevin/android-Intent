@@ -1,3 +1,3 @@
 # android-intent
-Activities and intents - Android Studio
+Activities and Intents - Android Studio
 
