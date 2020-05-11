@@ -1,2 +1,3 @@
 # android-intent
-Training Bundle-Intent Android Studio
+Activities and intents - Android Studio
+
