@@ -1,2 +1,2 @@
 # android-Intent
-Activities and Intents - Android Studio
+Passing Data between Activity using Intent & Bundle - Android Studio
